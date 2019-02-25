@@ -3,7 +3,7 @@ new_hash={}
 end
 
 def actor
-  actor_hash=
+  actor_hash={:name => 
 
 end
 
